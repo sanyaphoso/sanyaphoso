@@ -1,6 +1,4 @@
-## Greetings! 👋 <img src="https://media.discordapp.net/attachments/1329023523188113421/1329023860473073704/meow_attention.gif?ex=6788d56c&is=678783ec&hm=7d823daee437b76a9b0967631de3b3fa0a0943bf3498a6b25d53988c4e54112d&=&width=152&height=160" width="30"/>
-
-<h1><img src="https://media.discordapp.net/attachments/1329023523188113421/1329023860473073704/meow_attention.gif?ex=6788d56c&is=678783ec&hm=7d823daee437b76a9b0967631de3b3fa0a0943bf3498a6b25d53988c4e54112d&=&width=152&height=160" width="30"/> Hey! Nice to see you.</h1>
+<h1>Greetings! <img src="https://media.discordapp.net/attachments/1329023523188113421/1329023860473073704/meow_attention.gif?ex=6788d56c&is=678783ec&hm=7d823daee437b76a9b0967631de3b3fa0a0943bf3498a6b25d53988c4e54112d&=&width=152&height=160" width="30"/></h1>
 
 I'm Sanya Phoso (Nas), I am currently a Programmer | Front-End | Back-End | Full Stack Developer from <img src="https://www.flaticon.com/free-icon/world_16022754?related_id=16022754" width="13"/> <b>Bangkok, Thailand</b>
 
