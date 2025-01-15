@@ -1,4 +1,4 @@
-## Greetings! 👋
+## Greetings! 👋 <img src="https://github.com/user-attachments/assets/f3660c3c-59d3-40dd-978a-0b2e7bfb3ece" width="30"/>
 
 I'm Sanya Phoso (Nas), I am currently a Programmer | Front-End | Back-End | Full Stack Developer from <img src="https://www.flaticon.com/free-icon/world_16022754?related_id=16022754" width="13"/> <b>Bangkok, Thailand</b>
 
