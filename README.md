@@ -1,4 +1,6 @@
-## Hi there 👋
+## Greetings! 👋
+
+I'm Sanya Phoso (Nas), I am currently a Programmer | Front-End | Back-End | Full Stack Developer from <img src="https://www.flaticon.com/free-icon/world_16022754?related_id=16022754" width="13"/> <b>Bangkok, Thailand</b>
 
 <!--
 **sanyaphoso/sanyaphoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
