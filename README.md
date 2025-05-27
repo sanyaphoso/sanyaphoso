@@ -2,7 +2,9 @@
 
 <p>I'm Sanya Phoso (Nas), I am currently a Programmer | Front-End | Back-End | Full Stack Developer from <img src="https://media.discordapp.net/attachments/1329023523188113421/1329023822552109136/world.png?ex=6788d563&is=678783e3&hm=58242b46dcc5fee3457d40b8b149ab744babdc79963e96dd5eaf2afde0d9a5df&=&format=webp&quality=lossless&width=588&height=588" width="13"/> <b>Bangkok, Thailand</b>. </p>
 
+<h3>What I Code With</h3>
 <p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
