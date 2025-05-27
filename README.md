@@ -1,6 +1,6 @@
 <h1>Greetings! <img src="https://media.discordapp.net/attachments/1329023523188113421/1329023860473073704/meow_attention.gif?ex=6788d56c&is=678783ec&hm=7d823daee437b76a9b0967631de3b3fa0a0943bf3498a6b25d53988c4e54112d&=&width=152&height=160" width="30"/></h1>
 
-<p>I'm Sanya Phoso (Nas), I am currently a Programmer | Front-End | Back-End | Full Stack Developer from <img src="https://media.discordapp.net/attachments/1329023523188113421/1329023822552109136/world.png?ex=6788d563&is=678783e3&hm=58242b46dcc5fee3457d40b8b149ab744babdc79963e96dd5eaf2afde0d9a5df&=&format=webp&quality=lossless&width=588&height=588" width="13"/> <b>Bangkok, Thailand</b>. </p>
+<p>I'm Sanya Phoso (Nas), I am currently a Programmer | Front-End | Back-End | Full Stack Developer from <img src="https://flagpedia.net/data/flags/w1160/th.webp" width="13"/> <b>Bangkok, Thailand</b>. </p>
 
 <h3>What I Code With</h3>
 <p>
