@@ -5,7 +5,26 @@ a **Full Stack Developer** with hands-on experience in building web applications
 I'm skilled in both frontend and backend development, comfortable working independently or in a team, and always open to continuous learning.  
 I'm eager to contribute to a collaborative and growth-oriented environment.
 
-<h3>What I Code With</h3>
+## 👨‍💻 About Me
+- 💻 Skilled in both frontend and backend development  
+- 🤝 Comfortable working independently or as part of a team  
+- 📚 Always open to continuous learning  
+- 🌱 Eager to contribute to a collaborative, growth-oriented environment 
+
+## 🌟 Featured Projects
+
+- 🔗 [**Personal Portfolio Website**](https://github.com/sanyaphoso/portfolio)  
+  Tech: React, Tailwind CSS, MUI — A responsive personal website to showcase my skills and experience.
+
+- 🔗 [**Freight Management System**](https://github.com/yourprojectlink)  
+  Tech: PHP, MySQL — A graduate project for optimizing transportation routes using A* and Dijkstra.
+
+## 📄 Resume & Portfolio
+
+- 📎 [View My Resume (PDF)](https://your-resume-link)
+- 🌐 [Portfolio Website](https://your-portfolio-link)
+  
+## What I Code With
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -25,7 +44,7 @@ I'm eager to contribute to a collaborative and growth-oriented environment.
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
 </p>
 
-<h3>Where to find me</h3>
+## Where to find me
 <p><a href="https://github.com/sanyaphoso" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sanya-phoso-4b4b3b199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
