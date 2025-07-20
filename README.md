@@ -14,22 +14,22 @@ I'm eager to contribute to a collaborative and growth-oriented environment.
 ## 🌟 Featured Projects
 
 - 🔗 [**Work Management System**](https://github.com/sanyaphoso/work-management)
-  Developed a task and project management web app with features like task boards, project tracking, status updates, and user authentication.
-  Tech Stack: React.js, Tailwind CSS, Supabase, PostgreSQL, REST API
+  - Developed a task and project management web app with features like task boards, project tracking, status updates, and user authentication.
+  - Tech Stack: React.js, Tailwind CSS, Supabase, PostgreSQL, REST API
 
 - 🔗 **Vehicle Reservation System**
-  Built an internal web system for reserving company vehicles. Includes booking forms, availability checking, and admin approval features.
-  Tech Stack: PHP, JavaScript, HTML, CSS, MySQL
+  - Built an internal web system for reserving company vehicles. Includes booking forms, availability checking, and admin approval features.
+  - Tech Stack: PHP, JavaScript, HTML, CSS, MySQL
 
 - 🔗 **Complaint Management System**  
-  A web application that allows employees to submit complaints or report work-related issues. Responsible for designing both frontend and backend functionalities.
-  Tech Stack: PHP, JavaScript, HTML, CSS, MySQL
+  - A web application that allows employees to submit complaints or report work-related issues. Responsible for designing both frontend and backend functionalities.
+  - Tech Stack: PHP, JavaScript, HTML, CSS, MySQL
 
 - 🔗 [**Freight Management System**](https://github.com/sanyaphoso/freight-management-systems)
-  A web application designed to manage warehouse inventory and calculate the most efficient delivery route. Includes two main modules:
+  - A web application designed to manage warehouse inventory and calculate the most efficient delivery route. Includes two main modules:
     - Warehouse Management: Tracks material inventory and displays storage locations
     - Route Optimization: Compares A* and Dijkstra algorithms to find the best delivery route
-  Tech stack: Next.js, TypeScript, Tailwind CSS, Python, Node.js and PostgreSQL
+  - Tech stack: Next.js, TypeScript, Tailwind CSS, Python, Node.js and PostgreSQL
 
  (Web Application) 
  (Web Application) 
