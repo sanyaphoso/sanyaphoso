@@ -25,7 +25,7 @@ I'm eager to contribute to a collaborative and growth-oriented environment.
   A web application that allows employees to submit complaints or report work-related issues. Responsible for designing both frontend and backend functionalities.
   Tech Stack: PHP, JavaScript, HTML, CSS, MySQL
 
-- 🔗 [**Freight Management System**]([https://github.com/yourprojectlink](https://github.com/sanyaphoso/freight-management-systems))  
+- 🔗 [**Freight Management System**](https://github.com/sanyaphoso/freight-management-systems)
   A web application designed to manage warehouse inventory and calculate the most efficient delivery route. Includes two main modules:
     - Warehouse Management: Tracks material inventory and displays storage locations
     - Route Optimization: Compares A* and Dijkstra algorithms to find the best delivery route
