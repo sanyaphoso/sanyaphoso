@@ -13,16 +13,31 @@ I'm eager to contribute to a collaborative and growth-oriented environment.
 
 ## 🌟 Featured Projects
 
-- 🔗 [**Personal Portfolio Website**](https://github.com/sanyaphoso/portfolio)  
-  Tech: React, Tailwind CSS, MUI — A responsive personal website to showcase my skills and experience.
+- 🔗 [**Work Management System**](https://github.com/sanyaphoso/work-management)
+  Developed a task and project management web app with features like task boards, project tracking, status updates, and user authentication.
+  Tech Stack: React.js, Tailwind CSS, Supabase, PostgreSQL, REST API
 
-- 🔗 [**Freight Management System**](https://github.com/yourprojectlink)  
-  Tech: PHP, MySQL — A graduate project for optimizing transportation routes using A* and Dijkstra.
+- 🔗 **Vehicle Reservation System**
+  Built an internal web system for reserving company vehicles. Includes booking forms, availability checking, and admin approval features.
+  Tech Stack: PHP, JavaScript, HTML, CSS, MySQL
 
-## 📄 Resume & Portfolio
+- 🔗 **Complaint Management System**  
+  A web application that allows employees to submit complaints or report work-related issues. Responsible for designing both frontend and backend functionalities.
+  Tech Stack: PHP, JavaScript, HTML, CSS, MySQL
 
-- 📎 [View My Resume (PDF)](https://your-resume-link)
-- 🌐 [Portfolio Website](https://your-portfolio-link)
+- 🔗 [**Freight Management System**]([https://github.com/yourprojectlink](https://github.com/sanyaphoso/freight-management-systems))  
+  A web application designed to manage warehouse inventory and calculate the most efficient delivery route. Includes two main modules:
+    - Warehouse Management: Tracks material inventory and displays storage locations
+    - Route Optimization: Compares A* and Dijkstra algorithms to find the best delivery route
+  Tech stack: Next.js, TypeScript, Tailwind CSS, Python, Node.js and PostgreSQL
+
+ (Web Application) 
+ (Web Application) 
+Complaint Management System (Web Application) 
+
+## 📄 CV/Resume
+
+- 📎 [View My CV/Resume (PDF)](https://drive.google.com/file/d/1qWcn4kDCwdaYjtMNVUBPsY3BkHT0eweF/view?usp=sharing)
   
 ## What I Code With
 <p>
